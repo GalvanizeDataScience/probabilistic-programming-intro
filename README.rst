@@ -2,6 +2,10 @@
 Introduction to probabilistics programming with PyMC3
 *******************************************************
 
+This repos is no longer maintained.  It was moved here:
+
+https://github.com/GalvanizeOpenSource/probabilistic-programming-intro
+
 :Version: 1.0.0
 :Authors: Galvanize DSI
 :Web site: https://github.com/zipfian/probabilistic-programming-intro
